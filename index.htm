@@ -1,12 +1,29 @@
 <!DOCTYPE html>
 <html lang="ru" data-bs-theme="dark">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="/favicon.png" id="fav">
     <title>NewTabPlus.github.io</title>
 </head>
+
 <body>
     NewTabPlus.github.io
+    <div id="ver">Загрузка версии...</div>
 </body>
+
+<script>
+    check_ver()
+    async function check_ver() {
+        var response = await fetch('ver.build');
+        var text =  await response.text()
+        console.log(text)
+        document.getElementById('ver').textContent = text
+    }
+    
+
+
+</script>
+
 </html>
