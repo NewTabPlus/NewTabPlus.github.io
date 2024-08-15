@@ -1,0 +1,312 @@
+{
+    "name": ".",
+    "suffix": "",
+    "type": "directory",
+    "children": [
+        {
+            "name": ".git",
+            "suffix": "",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "COMMIT_EDITMSG",
+                    "suffix": "",
+                    "type": "file"
+                },
+                {
+                    "name": "config",
+                    "suffix": "",
+                    "type": "file"
+                },
+                {
+                    "name": "description",
+                    "suffix": "",
+                    "type": "file"
+                },
+                {
+                    "name": "FETCH_HEAD",
+                    "suffix": "",
+                    "type": "file"
+                },
+                {
+                    "name": "HEAD",
+                    "suffix": "",
+                    "type": "file"
+                },
+                {
+                    "name": "hooks",
+                    "suffix": "",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "applypatch-msg.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "commit-msg.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "fsmonitor-watchman.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "post-update.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-applypatch.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-commit.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-merge-commit.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-push.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-rebase.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "pre-receive.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "prepare-commit-msg.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "push-to-checkout.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        },
+                        {
+                            "name": "update.sample",
+                            "suffix": ".sample",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "index",
+                    "suffix": "",
+                    "type": "file"
+                },
+                {
+                    "name": "info",
+                    "suffix": "",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "exclude",
+                            "suffix": "",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "logs",
+                    "suffix": "",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "HEAD",
+                            "suffix": "",
+                            "type": "file"
+                        },
+                        {
+                            "name": "refs",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "heads",
+                                    "suffix": "",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "main",
+                                            "suffix": "",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "remotes",
+                                    "suffix": "",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "origin",
+                                            "suffix": "",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "main",
+                                                    "suffix": "",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "objects",
+                    "suffix": "",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "0b",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "3c9d1eab2e22b6c858bb0ba679908b016ccc98",
+                                    "suffix": "",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "16",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "37b2973bb1d38f3fe042507dd8615956680a3c",
+                                    "suffix": "",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "f3eca075fd3bc4296fdaebdba3f8d2eb817189",
+                                    "suffix": "",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "da",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "c3eb593fcf902b1519dae1cee39e311052e231",
+                                    "suffix": "",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "info",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": []
+                        },
+                        {
+                            "name": "pack",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "refs",
+                    "suffix": "",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "heads",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "main",
+                                    "suffix": "",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "remotes",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "origin",
+                                    "suffix": "",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "main",
+                                            "suffix": "",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tags",
+                            "suffix": "",
+                            "type": "directory",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "DataList.json",
+            "suffix": ".json",
+            "type": "file"
+        },
+        {
+            "name": "favicon.png",
+            "suffix": ".png",
+            "type": "file"
+        },
+        {
+            "name": "GIT_PUSH.bat",
+            "suffix": ".bat",
+            "type": "file"
+        },
+        {
+            "name": "index.htm",
+            "suffix": ".htm",
+            "type": "file"
+        },
+        {
+            "name": "README.md",
+            "suffix": ".md",
+            "type": "file"
+        },
+        {
+            "name": "scan.exe",
+            "suffix": ".exe",
+            "type": "file"
+        }
+    ]
+}
